@@ -1,0 +1,326 @@
+img {
+    width: 100%;
+    height: 800px;
+    opacity: 0.9;
+}
+
+#third {
+    color: rgb(248, 241, 241);
+    text-transform: capitalize;
+    text-shadow: 0px 0px 20px rgb(238, 241, 243), 10px 5px 15px rgb(242, 240, 245);
+    font-size: 7vw;
+    font-weight: 200px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 10%
+}
+
+.abs {
+    position: absolute;
+    left: 26%;
+    top: 0px;
+}
+
+.solut {
+    position: absolute;
+    top: 80px;
+    left: 10px;
+
+    #first {
+        width: 100px;
+        height: 100px;
+        border-radius: 50px;
+    }
+}
+
+#tahir {
+    color: white;
+    text-transform: capitalize;
+    text-align: center;
+    text-shadow: 5px 0px 15px black, 3px 0px 15px rgb(21, 21, 26);
+    font-size: xx-large;
+    margin-top: 20px;
+}
+
+#me {
+    margin-top: 8px;
+    margin-left: 10px;
+    width: 600px;
+    height: 470px;
+}
+
+#qwe {
+    margin-left: 7%;
+    margin-right: 7%;
+    margin-top: 3%;
+}
+
+#rang {
+    float: right;
+    font-size: xx-large;
+    margin-right: 25%;
+    color: white;
+}
+
+#dy {
+    margin-top: 10%;
+}
+
+#ran {
+    margin-top: 10%;
+}
+
+#tun {
+    margin-top: 10%;
+}
+
+#piya {
+    margin-top: 10%;
+}
+
+#hum {
+    margin-top: 10%;
+}
+
+#ki {
+    margin-top: 10%;
+}
+
+#bab {
+    margin-top: 10%;
+}
+
+#don {
+    margin-top: 10%;
+}
+
+
+#awan {
+    color: white;
+    text-transform: capitalize;
+    text-align: center;
+    text-shadow: 5px 0px 15px black, 3px 0px 10px rgb(31, 31, 32);
+    font-size: xx-large;
+    margin-top: 3%;
+}
+
+#weq {
+    margin-left: 7%;
+    margin-right: 7%;
+    margin-top: 2%;
+}
+
+#you {
+    float: right;
+    margin-top: 8px;
+    width: 600px;
+    height: 430px;
+}
+
+#mujhko {
+    float: left;
+    margin-left: 15%;
+    font-size: x-large;
+    margin-top: 20px;
+    font-weight: 500;
+    color: white;
+}
+
+#fahad {
+    margin-top: 10%;
+}
+
+#kashaf {
+    margin-top: 10%;
+}
+
+#eman {
+    margin-top: 10%;
+}
+
+#fatima {
+    margin-top: 10%;
+}
+
+#pxs {
+    color: white;
+    text-transform: capitalize;
+    text-align: center;
+    text-shadow: 5px 0px 15px black, 3px 0px 15px rgb(21, 21, 26);
+    font-size: xx-large;
+    margin-top: 500px;
+}
+
+#tisra {
+    margin-left: 7%;
+    margin-right: 7%;
+    margin-top: 3%;
+}
+
+#i {
+    margin-top: 8px;
+    margin-left: 10px;
+    width: 600px;
+    height: 470px;
+}
+
+#sharbat {
+    float: right;
+    font-size: xx-large;
+    margin-right: 25%;
+    color: white;
+}
+
+#ht {
+    margin-top: 30%;
+}
+
+#cs {
+    margin-top: 35%;
+}
+
+#java {
+    margin-top: 40%;
+}
+
+#react {
+    margin-top: 40%;
+}
+
+#mari {
+    color: white;
+    text-transform: capitalize;
+    text-align: center;
+    text-shadow: 5px 0px 15px black, 3px 0px 15px rgb(21, 21, 26);
+    font-size: xx-large;
+    margin-top: 30px;
+}
+
+#box {
+    float: right;
+    margin-top: 8px;
+    width: 600px;
+    height: 430px;
+}
+
+#risk {
+    margin-left: 7%;
+    margin-right: 7%;
+    margin-top: 2%;
+}
+
+#kiki {
+    float: left;
+    margin-left: 14%;
+    font-size: x-large;
+    margin-top: 20px;
+    font-weight: 500;
+    color: white;
+}
+
+#safr {
+    margin-top: 5%;
+}
+
+#sabi {
+    margin-top: 8%;
+}
+
+#dill {
+    margin-top: 8%;
+}
+
+#sakaal {
+    margin-top: 8%;
+}
+
+#suniyan {
+    margin-top: 8%;
+}
+
+#jawan {
+    margin-top: 8%;
+}
+
+#phola {
+    margin-top: 8%;
+}
+
+#live {
+    color: white;
+    text-transform: capitalize;
+    text-align: center;
+    text-shadow: 5px 0px 15px black, 3px 0px 15px rgb(21, 21, 26);
+    font-size: xx-large;
+    margin-top: 500px;
+}
+
+#sajj {
+    margin-left: 7%;
+    margin-right: 7%;
+    margin-top: 3%;
+}
+
+#pasori {
+    margin-top: 8px;
+    margin-left: 10px;
+    width: 600px;
+    height: 470px;
+}
+
+#jutt {
+    float: right;
+    font-size: xx-large;
+    margin-right: 8%;
+    color: white;
+}
+
+#dart {
+    margin-top: 8%;
+}
+
+.round {
+    margin-top: 8%;
+}
+#foot{
+    width: 1150px;
+     height: 110px;
+      border: 2px solid rgb(206, 203, 199);
+      border-radius: 10px;
+      margin-left: 5%;
+      margin-top: 20px;
+}
+#amlia{
+    margin-top: 15px;
+    text-align: center;
+    font-size: large;
+    color: white;
+}
+#he{
+  color: white;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+#copy{
+    margin-left: 20px;
+    font-size: small;
+    color: white;
+    text-decoration: none;
+}
+#may{
+    position: absolute;
+    right: 18%;
+}
+#be{
+ position: absolute;
+ right: 16%;
+}
+#us{
+position: absolute;
+right: 14%;
+}
+.same{
+    color: black ;
+}
+.same:hover{
+    color: white;
+}

@@ -1,0 +1,51 @@
+img{
+    float: right;
+    height: 630px;
+    width: 600px;
+}
+body{
+    background-color:rgb(10, 10, 10);
+}
+#full{
+    margin-left: 200px;
+    color: white;
+    margin-top: 60px;
+    text-decoration: underline;
+}
+#p1{
+    color: white;
+    margin-left: 10px;
+    font-size: large;
+}
+span{
+    color: rgb(20, 18, 18);
+}
+#p2{
+ color: white;
+ margin-left: 10px;
+ font-size: large;
+}
+#H2{
+    margin-left: 250px;
+    color: white;
+    margin-top: 50px;
+    text-decoration: underline;
+}
+#P3{
+    color: white;
+    margin-left: 10px;
+}
+#P4{
+    color: white;
+    margin-left: 10px;
+}
+#nmb{
+    color: rgb(26, 23, 22);
+    font-weight: 500;
+    text-decoration: underline;
+}
+#p5{
+    color: white;
+    margin-left: 110px;
+     margin-top: 4%;
+}
